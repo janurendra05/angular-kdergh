@@ -1,0 +1,1 @@
+import { VotingComponent } from 
